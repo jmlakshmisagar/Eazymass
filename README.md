@@ -19,6 +19,6 @@ Open the index.html file in your preferred web browser.
 Sign up or log in to start tracking your weight effortlessly.
 
 
--Lakshmisagar J M 
+- Lakshmisagar J M 
 
 Explore Eazymass and make weight tracking a breeze!
