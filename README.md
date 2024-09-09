@@ -1,4 +1,7 @@
-![image](https://github.com/jmlakshmisagar/Eazymass/assets/152427404/e33b5312-e6f0-4ec8-8d09-6ac58da26e75)
+
+![Screenshot from 2024-09-09 17-20-10](https://github.com/user-attachments/assets/0e0b544d-4708-48f0-a7f8-e92a3e99dcae)
+
+
 #Eazymass
 
 
