@@ -16,12 +16,6 @@ Responsive Design for Various Devices
 Secure Login and Signup Functionality
 
 
-How to Get Started -
-Clone the repository to your local machine.
-Open the index.html file in your preferred web browser.
-Sign up or log in to start tracking your weight effortlessly.
-
-
 - Lakshmisagar J M 
 
 Explore Eazymass and make weight tracking a breeze!
